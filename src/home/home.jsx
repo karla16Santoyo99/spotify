@@ -62,7 +62,7 @@ function Home() {
                 </Button>
             </Grid>
             <Grid item xs={4}>
-                <a href='https://github.com/karla16Santoyo99/Spotify1'>
+                <a href='https://github.com/karla16Santoyo99/spotify'>
                 <Button variant="contained" >
             Github
                 </Button></a>
