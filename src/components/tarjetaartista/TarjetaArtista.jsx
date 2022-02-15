@@ -20,7 +20,7 @@ export default function RecipeReviewCard({ imagen, artista, url }) {
                 component="img"
                 height="194"
                 image={imagen}
-                alt="Paella dish"
+                alt={artista}
             />
             <CardContent>
                 <Typography variant="body2" color="text.secondary">
